@@ -176,11 +176,11 @@ nav ul li a:hover::after {
 
 .profile-photo {
     width: 220px;
-    height: 220px;
+    height: 290px;
     border-radius: 50%;
     object-fit: cover;
     border: 20px solid var(--white-color);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .about-text {
