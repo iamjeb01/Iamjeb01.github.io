@@ -179,7 +179,7 @@ nav ul li a:hover::after {
     height: 300px;
     border-radius: 20%;
     object-fit: cover;
-    border: 5px solid var(--white-color);
+    border: 0px solid var(--white-color);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
